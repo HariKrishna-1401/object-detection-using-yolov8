@@ -1,0 +1,6 @@
+path: D:\HARI\yolo8_detection\data
+train: images\train
+val: images\train
+
+names:
+    0: zebra
